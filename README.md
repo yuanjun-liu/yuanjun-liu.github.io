@@ -1,7 +1,7 @@
 
 
 <html>
-<table style="margin-left: auto; margin-right: auto;">
+<table style="margin-left: auto; margin-right: auto;" frame=void>
 <tr><td>
     <img src="https://avatars.githubusercontent.com/u/18240596?v=4" alt="Yuanjun Liu" width="300" >
 </td><td>
@@ -33,5 +33,5 @@
 
 ## 2021
 
-- Liping Sun, Xiaoqing Liu, Yuanjun Liu, Tao Wang, Liangmin Guo, Xiaoyao Zheng, Yonglong Luo: A novel deep recommend model based on rating matrix and item attributes. J. Intell. Inf. Syst. 57(2): 295-319 (2021).
+- Liping Sun, Xiaoqing Liu, <b>Yuanjun Liu</b>, Tao Wang, Liangmin Guo, Xiaoyao Zheng, Yonglong Luo: A novel deep recommend model based on rating matrix and item attributes. J. Intell. Inf. Syst. 57(2): 295-319 (2021).
 
