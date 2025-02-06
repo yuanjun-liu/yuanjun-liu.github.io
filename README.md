@@ -1,14 +1,13 @@
 
-
 <html>
-<table style="margin-left: auto; margin-right: auto;" frame=void>
+<table style="margin-left: auto; margin-right: auto;">
 <tr><td>
-    <img src="https://avatars.githubusercontent.com/u/18240596?v=4" alt="Yuanjun Liu" width="300" >
+    <img src="https://avatars.githubusercontent.com/u/18240596?v=4" alt="Yuanjun Liu" width="220" >
 </td><td>
     <h1>Yuanjun  Liu</h1>
     <p>✉️ <a href="mailto:yjliu1@stu.suda.edu.cn">yjliu1@stu.suda.edu.cn</a></p>
     <p>📍 Soochow University, Suzhou, China</p>
-    <p>🎓 <a href="https://scholar.google.com/citations?user=q_7QyPoAAAAJ">Google Scholar</a>  💻 <a href="https://github.com/yuanjun-liu">Github</a> </p>
+    <p>🎓 <a href="https://scholar.google.com/citations?user=q_7QyPoAAAAJ">Google Scholar </a> 💻 <a href="https://github.com/yuanjun-liu">Github</a></p>
     <p>🌟 Spatial Data, Trajectory Data</p>
 </td></tr>
 </table>
