@@ -16,6 +16,10 @@
 
 # Publications
 
+## 2025
+
+- <b>Yuanjun Liu</b>, Guanfeng Liu, Qingzhi Ma, Zhixu Li, Lei Zhao, An Liu: GPE: Global Position Embedding for Trajectory Similarity Computation. KDD 2025. <a href="https://doi.org/10.1145/3711896.3736986">paper</a>, <a href="https://github.com/yuanjun-liu/GPE">code</a>.
+
 ## 2024
 
 - <b>Yuanjun Liu</b>, Guanfeng Liu, Qingzhi Ma, Zhixu Li, Shiting Wen, Lei Zhao, An Liu: KMCT: k-Means Clustering of Trajectories Efficiently in Location-Based Services. CIKM 2024: 1523-1532. <a href="https://dl.acm.org/doi/10.1145/3627673.3679848">paper</a>, <a href="https://github.com/yuanjun-liu/KMCT">code</a>.
