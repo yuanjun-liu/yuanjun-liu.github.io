@@ -8,7 +8,7 @@
     <p>✉️ <a href="mailto:yjliu1@stu.suda.edu.cn">yjliu1@stu.suda.edu.cn</a></p>
     <p>📍 Soochow University, Suzhou, China</p>
     <p>🎓 <a href="https://scholar.google.com/citations?user=q_7QyPoAAAAJ">Google Scholar </a> 💻 <a href="https://github.com/yuanjun-liu">Github</a></p>
-    <p>🌟 Spatial Data, Trajectory Data</p>
+    <p>🌟 Spatial Data, Trajectory Data, Privacy Protection</p>
 </td></tr>
 </table>
 </html>
@@ -18,7 +18,7 @@
 
 ## 2025
 
-- <b>Yuanjun Liu</b>, Guanfeng Liu, Qingzhi Ma, Zhixu Li, Lei Zhao, An Liu: GPE: Global Position Embedding for Trajectory Similarity Computation. KDD 2025. <a href="https://doi.org/10.1145/3711896.3736986">paper</a>, <a href="https://github.com/yuanjun-liu/GPE">code</a>.
+- <b>Yuanjun Liu</b>, Guanfeng Liu, Qingzhi Ma, Zhixu Li, Lei Zhao, An Liu: GPE: Global Position Embedding for Trajectory Similarity Computation. KDD 2025: 1927-1938. <a href="https://doi.org/10.1145/3711896.3736986">paper</a>, <a href="https://github.com/yuanjun-liu/GPE">code</a>.
 
 ## 2024
 
@@ -36,5 +36,6 @@
 
 ## 2021
 
-- Liping Sun, Xiaoqing Liu, <b>Yuanjun Liu</b>, Tao Wang, Liangmin Guo, Xiaoyao Zheng, Yonglong Luo: A novel deep recommend model based on rating matrix and item attributes. J. Intell. Inf. Syst. 57(2): 295-319 (2021).
+- Liping Sun, Xiaoqing Liu, <b>Yuanjun Liu</b>, Tao Wang, Liangmin Guo, Xiaoyao Zheng, Yonglong Luo: A novel deep recommend model based on rating matrix and item attributes. J. Intell. Inf. Syst. 57(2): 295-319 (2021). <a href="https://link.springer.com/article/10.1007/s10844-021-00644-x">paper</a>
 
+- Mengting Wu, Liping Sun, <b>Yuanjun Liu</b>, Zhaoyan, Hu, Yannian, Zhao, Yonglong, Luo .K-anonymity method based on restrained clustering for privacy preservation. Computer Engineering And Design, 2021, 42(3): 607-613. <a href="https://dl.ccf.org.cn/article/articleDetail.html?type=qkwz&_ack=1&id=5411737741199360">paper</a>.
