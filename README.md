@@ -36,6 +36,6 @@
 
 ## 2021
 
-- Liping Sun, Xiaoqing Liu, <b>Yuanjun Liu</b>, Tao Wang, Liangmin Guo, Xiaoyao Zheng, Yonglong Luo: A novel deep recommend model based on rating matrix and item attributes. J. Intell. Inf. Syst. 57(2): 295-319 (2021). <a href="https://link.springer.com/article/10.1007/s10844-021-00644-x">paper</a>
+- Liping Sun, Xiaoqing Liu, <b>Yuanjun Liu</b>, Tao Wang, Liangmin Guo, Xiaoyao Zheng, Yonglong Luo: A novel deep recommend model based on rating matrix and item attributes. J. Intell. Inf. Syst., 2021, 57(2): 295-319. <a href="https://link.springer.com/article/10.1007/s10844-021-00644-x">paper</a>
 
-- Mengting Wu, Liping Sun, <b>Yuanjun Liu</b>, Zhaoyan, Hu, Yannian, Zhao, Yonglong, Luo .K-anonymity method based on restrained clustering for privacy preservation. Computer Engineering And Design, 2021, 42(3): 607-613. <a href="https://dl.ccf.org.cn/article/articleDetail.html?type=qkwz&_ack=1&id=5411737741199360">paper</a>.
+- Mengting Wu, Liping Sun, <b>Yuanjun Liu</b>, Zhaoyan, Hu, Yannian, Zhao, Yonglong, Luo. K-anonymity method based on restrained clustering for privacy preservation. Computer Engineering And Design, 2021, 42(3): 607-613. <a href="https://dl.ccf.org.cn/article/articleDetail.html?type=qkwz&_ack=1&id=5411737741199360">paper</a>.
