@@ -5,10 +5,10 @@
     <img src="https://avatars.githubusercontent.com/u/18240596?v=4" alt="Yuanjun Liu" width="220" >
 </td><td>
     <h1>Yuanjun  Liu</h1>
-    <p>✉️ <a href="mailto:yjliu1@stu.suda.edu.cn">yjliu1@stu.suda.edu.cn</a></p>
+    <p>✉️ <a href="mailto:yjliu1@stu.suda.edu.cn">yjliu1@stu.suda.edu.cn</a>, <a href="mailto:yuanjun-liu@qq.com">yuanjun-liu@qq.com</a></p>
     <p>📍 Soochow University, Suzhou, China</p>
     <p>🎓 <a href="https://scholar.google.com/citations?user=q_7QyPoAAAAJ">Google Scholar </a> 💻 <a href="https://github.com/yuanjun-liu">Github</a></p>
-    <p>🌟 Spatial Data, Trajectory Data, Privacy Protection</p>
+    <p>🌟 Spatial Data Mining, Privacy Protection</p>
 </td></tr>
 </table>
 </html>
@@ -17,6 +17,8 @@
 # Publications
 
 ## 2025
+
+- Chaowei He, <b>Yuanjun Liu<b>, Qingzhi Ma, Shenyuan Ren, Xizhao Luo, Lei Zhao, An Liu. Forgetting by Pruning: Data Deletion in Join Cardinality Estimation. AAAI 2025. <a href="https://openreview.net/forum?id=mkuE3SR6V0">paper</a>, <a href="https://github.com/heriec/CEP"></a>.
 
 - <b>Yuanjun Liu</b>, Guanfeng Liu, Qingzhi Ma, Zhixu Li, Lei Zhao, An Liu: GPE: Global Position Embedding for Trajectory Similarity Computation. KDD 2025: 1927-1938. <a href="https://doi.org/10.1145/3711896.3736986">paper</a>, <a href="https://github.com/yuanjun-liu/GPE">code</a>.
 
