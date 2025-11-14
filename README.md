@@ -18,7 +18,7 @@
 
 ## 2026
 
-- Chaowei He, <b>Yuanjun Liu</b>, Qingzhi Ma, Shenyuan Ren, Xizhao Luo, Lei Zhao, An Liu. Forgetting by Pruning: Data Deletion in Join Cardinality Estimation. AAAI 2025. <a href="https://openreview.net/forum?id=mkuE3SR6V0">paper</a>, <a href="https://github.com/heriec/CEP">code</a>.
+- Chaowei He, <b>Yuanjun Liu</b>, Qingzhi Ma, Shenyuan Ren, Xizhao Luo, Lei Zhao, An Liu. Forgetting by Pruning: Data Deletion in Join Cardinality Estimation. AAAI 2026. <a href="https://openreview.net/forum?id=mkuE3SR6V0">paper</a>, <a href="https://github.com/heriec/CEP">code</a>.
 
 ## 2025
 
