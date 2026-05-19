@@ -18,6 +18,8 @@
 
 ## 2026
 
+- <b>Yuanjun Liu</b>, Jiaxing Shen, Weiqi Wang, Jingwen Li, Jiajie Xu, Lei Zhao, Haoran Xie, An Liu. Machine Unlearning on Trajectory Data: An Experimental Analysis. KDD 2026.
+
 - Chaowei He, <b>Yuanjun Liu</b>, Qingzhi Ma, Shenyuan Ren, Xizhao Luo, Lei Zhao, An Liu. Forgetting by Pruning: Data Deletion in Join Cardinality Estimation. AAAI 2026. <a href="https://arxiv.org/abs/2511.20293">paper</a>, <a href="https://github.com/heriec/CEP">code</a>.
 
 ## 2025
